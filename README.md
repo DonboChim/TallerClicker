@@ -17,6 +17,8 @@ No se conoce ningún bug. Sin embargo, la jugabilidad tiene algunos inconvenient
 
 LINK BUILD: https://drive.google.com/drive/folders/1ynNRIldjpMFXHp3rbywPRk5rJGrBR2fI?usp=sharing
 
+LINK PROYECTO COMPLETO: https://drive.google.com/drive/folders/1CARiGc0njgfGJG7FqLFiZo8phEdIutpf?usp=sharing
+
 Assets
 https://redfoc.com/item/space-shooter-game-assets/
 https://www.flaticon.es/autores/wissawa-khamsriwath
